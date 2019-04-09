@@ -3,7 +3,7 @@
 [My Docker Hub](https://hub.docker.com/u/startmt)
 
 
-[![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
+[![Build Status](https://travis-ci.org/startmt/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/startmt/workshop-depoy-microservice-java)
 
 # Demo :: Deploy microservices with Docker
 
